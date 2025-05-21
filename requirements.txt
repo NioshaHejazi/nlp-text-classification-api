@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+scikit-learn
+numpy==1.26.4
+torch==2.1.2+cpu
+transformers==4.35.2
+python-jose[cryptography]
